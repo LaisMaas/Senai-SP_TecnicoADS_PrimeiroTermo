@@ -1,0 +1,197 @@
+/* Importa uma fonte do Google fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700'); 
+
+/* Remove as margins internas do documento */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Aplica o estilo a fonte que foi importada  */
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Aplica o estilo ao H2 */
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Cria um container centralizado que ocupa 80% da tela */
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+/* ==================================================== */
+
+
+/* ==================================================== */
+/* Estilo da barra de menu UOL */
+
+#barra-menu-uol{
+    width: 100%;                    /* largura ocupará 100% da tela */
+    height: 40px;                   /* altura será de 40px */
+    background-color: black;      /* cor de fundo será preta */
+    padding-left: 40px;             /* espaçamento interno a esquerda será de 40px */
+    padding-right: 40px;            /* espeaçamento interno a direita será de 40px */
+    box-sizing: border-box;         /* não permite que o elemento se redimensione */
+    position: relative;             /* aplica o posicionamento relativo */
+}
+
+#barra-menu-uol nav ul li a{
+    color: #f2f2f2;               /* aplica cor da fonte em cinza */
+    text-decoration: none;          /* remove o sublinhado do elemento <a> */      
+}
+
+#logo-uol{
+    height: 36px;                   /* a altura será de 36px */
+    left: calc(50% - 32px);         /* posiciona o elemento fazendo um calculo matematico */
+}
+/* ==================================================== */
+
+
+/* ==================================================== */
+/* Estilo padrão do menu */
+
+.menu{
+    height: 100%;                   /* altura será de 100% */
+    font-size: 13px;                /* tamanho da fonte será de 13px*/
+    font-weight: 500;               /* peso da fonte será de 500 */
+    padding-top: 10px;              /* espaçamento interno superior será de 10px */
+    text-transform: uppercase;      /* transforma o texto para maiusculo */
+}
+
+.menu ul li{
+    display: inline-block;          /* mostra na tela em formato de linha */
+    margin-left: 10px;              /* espaçamento externo será de 10px */
+} 
+
+.menu-esquerda{
+    float: left;                    /* permite que o elemento flutue a esquerda */
+}
+
+.menu-direita{
+    float: right;                   /* permite que o elemento flutue a direita */
+}
+
+.menu i{
+    margin-right: 10px;             /* espaçamento externo a direita será de 10px */
+}
+
+.logo{
+    position: absolute;             /* aplica o posicionamento absoluto */
+}
+/* ==================================================== */
+
+
+/* ==================================================== */
+/* Estilo da barra de menu FOLHA */
+
+#barra-menu-folha{
+    width: 100%;                    /* largura será de 100% */
+    height: 100px;                  /* altura será 100px */
+    padding-top: 30px;              /* espaçamento interno superior será de 30px */
+    box-sizing: border-box;         /* não permite que o elemento redimensione */
+    position: relative;             /* aplica posicionamento relativo */
+    border-bottom: 1px solid #e0e0e0;   /* cria uma borda de 1px sólida na cor cinza */
+}
+
+#barra-menu-folha nav{
+    margin-left: 50px;              /* espaçamento externo a esquerda de 50px */
+    margin-right: 50px;             /* espaçamento experno a esquerda de 50px */
+}
+
+#barra-menu-folha nav ul li a{
+    text-decoration: none;          /* remove o sublinhado no elemtno <a> */
+    color: black;                 /* cor do texto será preta */
+}
+
+#logo-folha{
+    height: 100px;                  /* a altura será de 100px */
+    width: 285px;                   /* a largura será de 285px */
+    left: calc(50% - 142.5px);      /* posiciona o elemento a esquerda através de um cálculo matemático */
+    top: 0;                         /* posiciona o elemento no topo */
+}
+/* ==================================================== */
+
+
+/* ==================================================== */
+/* Estilo do logo new york times */
+
+#logo-tnyt{
+    height: 60px;                   /* a altura será de 60px */
+    width: 100%;                    /* largura do elemento será de 100% */
+    padding-left: 60px;             /* espaçamento interno a esquerda será de 60px */
+    border-bottom: 1px solid #e0e0e0;   /* cria uma borda de 1px solida na cor cinza */
+}
+
+#logo-tnyt img{
+    height: 60px;
+}
+/* ==================================================== */
+
+
+/* ==================================================== */
+/* Estilo das notícias */
+.noticia{
+    width: 990px;                   /* a largura será de 990px */
+    height: 310px;                  /* a altura será de 310px */
+    margin: 50px 60px;              /* o espaçamento externo superior e inferior será de 50px e da direita e esquerda será de 60px */
+    box-sizing: border-box;         /* não permite que o elemento redimensione */
+}
+
+.imagem-noticia{
+    height: 100%;                   /* a altura será de 100% */
+    width: 465px;                   /* a largura será de 465px */
+    float: left;                    /* permite que o elemento flutue a esquerda */
+    margin-right: 20px;             /* o espaçamento externo a direita será de 20px */
+}
+
+.imagem-noticia img{
+    width: 100%;                    /* a largura será de 100% */   
+    height: 100%;                   /* a altura será de 100% */
+}
+
+.imagem-noticia-secundaria{
+    width: 300px;                   /* a largura será de 300px */
+}
+
+.link-topo {
+    font-size: 12px;                /* define o tamanho da fonte para 12px */
+    color: black;                 /* cor de fundo será preta */
+    text-decoration: none;          /* remove o sublinhado do elemento <a> */
+    font-weight: 600;               /*  */
+}
+
+.link-topo i{
+    margin-left: 20px;              /* o espaçamento externo a esquerda será de 20px */
+    font-size: 16px;                /* o tamanho da fonte será de 16px */
+    color: #8f8f8f;               /* a cor da fonte será de cinza */
+}
+
+
+#noticia-principal h2{
+    font-size: 37px;                /* o tamanho da fonte será dde 37px */
+    margin-top: 20px;               /* o espaçamento externo superior será de 20px */
+}
+
+.noticia-secundaria h2{
+    font-size: 28px;                /* define o tamanho da fonte para 28px */
+    margin-top: 20px;               /* o espaçamento externo superior será de 20px */
+}
+
+.subtitulo-noticia{
+    margin-top: 20px;               /* o espaçamento externo superior será de 20px */
+    font-size: 16px;                /* define o tamanho da fonte para 16px */
+    color: #8f8f8f;               /*  */
+}
+
+.data-publicacao{
+    font-size: 12px;                /* a cor da fonte será de cinza */
+    margin-top: 20px;               /* o espaçamento externo superior será de 20px */
+    color:  #8f8f8f;              /* a cor da fonte será de cinza */
+}
+
+.noticia-secundaria{
+    height: 210px;                  /* a altura do elemento será de 210px */
+}

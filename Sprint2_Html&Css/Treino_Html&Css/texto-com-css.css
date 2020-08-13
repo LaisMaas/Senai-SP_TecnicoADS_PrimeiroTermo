@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900');
+
+p{color: orange;}
+
+a{color: green}
+
+/* Alinhamento de texto */
+#txt1{text-align: left;}
+#txt2{text-align: center;}
+#txt3{text-align: right;}
+#txt4{text-align: justify;}
+
+/* Decoração de texto */
+#txt5{text-decoration: none;}
+#txt6{text-decoration: underline;}
+#txt7{text-decoration: overline;}
+#txt8{text-decoration: line-through;}
+a{text-decoration: none;}
+
+/* Transformação de texto */
+#txt9{text-transform: uppercase;}
+#txt10{text-transform: lowercase;}
+#txt11{text-transform: capitalize;}
+
+
+/* Identação de texto */
+#txt12{text-indent: 100px;}
+
+/* Espaçamento de texto */
+#txt13{letter-spacing: 20px;}
+#txt14{word-spacing: 20px;}
+#txt15{line-height: 30px;}
+
+/* Fontes */
+#txt16{font-family: Verdana, Geneva, Tahoma, sans-serif}
+#txt17{font-family: Georgia, 'Times New Roman', Times, serif;}
+#txt18{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+

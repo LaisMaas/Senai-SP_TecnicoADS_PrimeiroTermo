@@ -1,0 +1,748 @@
+https://github.com/LaisMaas/gitprojetos.git
+
+background9login
+banner7
+
+Casamento.jpg
+
+formatura3
+
+local18
+
+show3
+
+
+banner1  - local
+banner3 - som
+banner5 -iluminação
+
+
+git remote add origin https://github.com/LaisMaas/gitprojetos.git
+
+git push -u origin master
+
+ícones:
+<i class="fab fa-facebook"></i>
+<i class="fab fa-facebook-f"></i>
+
+<i class="far fa-envelope"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-whatsapp"></i>
+
+<i class="fas fa-bars"></i>
+<i class="fas fa-bars"></i>
+
+<i class="fas fa-ellipsis-h"></i>
+<i class="fas fa-times"></i>
+<i class="fas fa-check"></i>
+
+https://www.youtube.com/watch?v=8FYRY62smqg
+
+Barra menu 
+
+Favicon: <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+
+Cores: 
+Amarelol: #8f804a
+Roxol: 7d0093
+
+AmareloP: ffc600  225 187 54  / rgb(228, 168, 28);                                   
+Roxo: 125 0 147  / rgb(107, 11, 124);
+
+
+https://pt.khanacademy.org/computing/computer-programming/html-css
+Pesquisar informações:
+
+
+https://www.youtube.com/watch?v=F-KCncXMPk0
+
+
+Menu fullscreen:
+https://freefrontend.com/css-fullscreen-menus/
+https://speckyboy.com/fullscreen-responsive-menus/
+
+
+Planta baixa galpão
+
+https://pt.stackoverflow.com/questions/220084/como-criar-um-dashboard-igual-a-esse
+
+Pesquisar: 
+
+https://www.devmedia.com.br/novos-tipos-de-input-da-html-5/27109
+
+/https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+
+https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
+
+https://www.rrarquiteturaereforma.com.br/arquitetura-rustica-vicente-pires
+
+https://www.htmlprogressivo.net/2014/05/Imagem-CSS-Borda-Margem-Espacamento-Legenda-caption-img-alinhamento-formatacao.html
+
+https://www.maujor.com/tutorial/propriedade-css-para-estilizacao-de-background.php
+
+
+https://tableless.com.br/carrocel-descomplicado-com-html-css/
+
+
+https://carlos-algms.github.io/blog/como-criar-um-plugin-de-carrossel-de-imagens-com-css-puro/
+
+
+https://www.devmedia.com.br/como-centralizar-divs-em-html-e-css/37568
+
+https://blog.caelum.com.br/o-drama-do-posicionamento-de-elementos-na-tela-e-o-flexbox/
+
+https://tableless.com.br/centralizando-conteudo-na-vertical-e-horizontal-com-css-flexbox/
+
+
+
+https://www.guj.com.br/t/dashboard-com-html-css-puro/380896/3
+
+https://pt.stackoverflow.com/questions/220084/como-criar-um-dashboard-igual-a-esse
+
+
+https://www.google.com/search?rlz=1C1CHZL_pt-BRBR746BR746&q=tour+virtual+gratis&sa=X&ved=2ahUKEwj_3d6R6MXkAhVRJ7kGHSQVDrkQ1QIoAXoECAoQAg&biw=1662&bih=1248
+
+https://dicasdearquitetura.com.br/programa-gratuito-cria-tour-virtual-nos-ambientes/
+
+
+***********************
+
+
+
+
+https://www.google.com.br/search?hl=pt-BR&sxsrf=ACYBGNS-lMHhjkWaWgpwBaB8ZVPKJQEtWg:1567779961117&q=%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0+1000+%E4%B8%87+%E5%86%86+%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7&tbm=isch&source=iu&ictx=1&tbs=simg:CAESnAIJM8wj7GtxU70akAILELCMpwgaYgpgCAMSKLoGuQaUAoYKhQLZBbwKvQr7FPkUgCiHKPw49yqBKIYosiHgJ4o53ioaMGxuDOPt3R3MvhaOFsMskZgW9XHFrOSDFQSzKUayaUK0C2_15Ud_1cbej4Nl75RKIB6iAEDAsQjq7-CBoKCggIARIEvGFzAgwLEJ3twQkaiAEKFwoFaG91c2XapYj2AwoKCC9tLzAzam01Ch8KDGFyY2hpdGVjdHVyZdqliPYDCwoJL20vMDNuZm1xChYKBHdvb2TapYj2AwoKCC9tLzA4M3Z0ChcKBXNsb3Bl2qWI9gMKCggvbS8wNzhobQobCghwYXJhbGxlbNqliPYDCwoJL20vMDMwemZuDA&fir=GnmJpScSOS6M4M%253A%252CslUC6ywdWXXE1M%252C_&vet=1&usg=AI4_-kR1rjRQS-TPoKNW2m3kYbiLyUJaAA&sa=X&ved=2ahUKEwi2h6y9s7zkAhVCLLkGHXhQCp8Q9QEwAnoECAAQBA#imgrc=GnmJpScSOS6M4M:
+
+
+
+
+
+Carrossel
+https://tableless.com.br/carrocel-descomplicado-com-html-css/
+
+https://codepen.io/lleonardoll/pen/pbvdRZ
+
+https://www.youtube.com/watch?v=TdC0woPA4bY
+
+
+
+https://www.yogh.com.br/blog/como-utilizar-o-tour-virtual-no-wordpress/
+
+
+Sites de referência:
+
+http://www.casantx.com.br/
+https://br.pinterest.com/pin/309059593179876157/
+
+https://www.ticket360.com.br/sub-categoria/211/sao-paulo/?p=6
+
+https://pixabay.com/pt/images/search/festa/
+
+
+
+
+Menu (deslizante/https://www.tpseventos.com.br)  / Logo
+Login
+Cadastre-se
+
+
+
+
+
+Apresentação:
+
+https://criativito.com.br/nossa-historia/
+
+Inaugurado em 2015, o Rolê Top foi idealizado é um lugar onde as pessoas se encontram, trocam, conectam e abrem espaço para que o novo.
+
+Com uma localização privilegiada próximo ao metrô Santa Cecília, em um bairro de fácil acesso, O Rolê Top oferece toda infra-estrutura para realização de eventos corporativos, festas, formaturas, shows, casamentos, confraternizações, locação para filmagens, entre outros.
+
+Um dos espaços de eventos mais movimentados no centro da capital paulista, disponibiliza 150m² x 40m² de área de exposição em ambiente modular com capacidade de até 400 lugares (sentados).  
+
+Por de trás do Garden, Lounge e Village está uma empresa familiar, uma marca conceituada e respeitada, que coloca a satisfação e bem-estar do cliente acima de tudo. Do primeiro contato às congratulações pelo evento realizado, transmitimos aos nossos clientes confiança, através de um atendimento transparente, consultivo e especializado.
+
+Afrikan House é muito mais que espaços para a realização de eventos. Afrikan House: Espaços para a realização de sonhos.
+ 
+
+Serviços:
+
+Som
+Para sonorização de eventos utilizamos caixas acústicas de acordo com o número de pessoas e tamanho do local. Conseguimos oferecer a melhor solução de Sonorização para o seu evento.
+
+
+Iluminação Profissional
+
+A iluminação consegue transformar totalmente qualquer ambiente. É por isso que nós cuidamos de cada detalhe no seu casamento... e transformamos isso em uma experiência única.
+
+
+
+Infra-estrutura
+Projetada para receber todos os tipos de eventos, a estrutura da Rolê Top se adapta à sua necessidade.
+
+Festas para 400 pessoas em uma área útil de 
+Mais de 1.700m2 de área útil.
+Terreno com 12.400m2.
+Jardim – pátio externo: 38.57 m²
+O Hall decorado com lustres feitos na cidade de Murano, Itália, especialmente para a Casa NTX.
+Sistema de som ambiente com 42 caixas automatizadas.
+Sistema de climatização automatizado.
+Palco com 100m2.
+Espaço da Noiva com salas especiais para uso no dia do evento.
+Três camarins equipados.
+Dois houses mix.
+02 geradores de 700 KVA cada.
+Estacionamento com 300 vagas dentro da Casa.
+Pé direito com 8m de altura.
+Estrutura para suspender mais de 90 toneladas no teto do salão.
+Deck externo com oliveiras centenárias e espelho d'água.
+Projeto de Felippe Crescenti.
+Tudo o que o seu evento precisa para ser completo e inesquecível.
+Medidas Técnicas
+
+Hall de entrada: 18.77 m²
+
+Salão principal: 344.81 m²
+
+Anexo: 52.26 m²
+
+Pista de dança: 90 m²
+
+Sala Coffee integrada ao salão: 28.30 m²
+
+Jardim – pátio externo: 38.57 m²
+
+
+
+
+
+***IMPORTANTE: Escolha a melhor oportunidade, locando o espaço por valor fechado, ou seja, a quantidade de convidados que considera receber não afetará o valor de locação do espaço. Nossos valores sofrem uma pequena alteração de acordo com a data e período de interesse.
+
+
+
+Depoimentos:
+http://www.afrikanhouse.com.br/?gclid=Cj0KCQjwh8jrBRDQARIsAH7BsXcacdpuwGlhR0Wi5Ig0S5jF48S71RwKvfkh8SoxqvA4mQV34iMYbOcaAqQTEALw_wcB
+
+"Quando temos um sonho e conseguimos realizar nos sentimos maravilhados, mas nada se compara a realizar o sonho de uma filha e a Rolê Top me ajudou demais nesse sonho ou seja não tem preço!! Gratidão por tudo que ajudaram a proporcionar a nós, familiares e amigos, um dia lindo e perfeito."
+
+PAULA – 08/03/2019
+
+
+"Dia incrível!
+Energia inexplicável.
+Muitas preocupações prévias mas foi tudo perfeito. Só elogios dos convidados sobre o atendimento, local e comida!
+O que são aquelas entradas? Meu Deus!
+Queríamos agradecer à toda equipe da Rolê Top por fazer do nosso dia perfeito e inesquecível."
+
+CASAMENTO RACHEL E RENATO – 07/04/2018
+
+
+"Fizemos um evento no espaço Afrikan House Village e foi além da nossa expectativa. Com certeza faremos outros com eles. Parabéns pelo profissionalismo."
+
+CONFRATERNIZAÇÃO ORION - 13/12/2017
+
+"Festa Maravilhosa com todos detalhes perfeitos .Inesquecível !!! Obrigada Afrikan House Lounge por proporcionar momentos tão Felizes !!! (palavras da mãe, Paula)"
+
+FESTA DE 15 ANOS DA GIULIA - 06/10/2017
+
+
+"O espaço é tão lindo que quase não requer decoração!!! O atendimento da equipe durante todo o processo de preparação do casamento foi ótimo e no pós casamento também rsrsrs Gostamos muito de tudo. Foi tudo ótimo, lindo e perfeito!"
+
+CASAMENTO MEIRE E RICARDO – 02/09/2017
+
+
+Rodapé:
+
+http://www.showdesign.com.br/iluminacao-para-casamento
+
+
+
+Nossa História
+https://www.construsitebrasil.com/nossa-historia
+
+
+RT Serviços
+
+Iluminação
+Desenvolvemos Projetos de iluminação arquitetural e cênica , casas de espetáculos, estúdios,exposições,shows, filmagens, desfiles,casamentos, palestras e eventos em geral.
+    Refletor Elipsoidal ETC- Projetores elipsoidais equipamento de luz fixo controle de foco e  zoom,porta gelatinas, tendo a possibilidade de colocar a logomarca
+    LED Arquitetural
+    Source four
+    Holofote refletor de led 15 Watts
+    Refletor  fresnel
+    Ribalta LED
+    Refletor ParLED (RGBW) 1W ou 12W
+    Set Light
+    Máquinas de Fumaça
+    Mesa Dimmer
+    Refletor plano-convexo
+    Rack Dimmer 6 ou 42 Canais
+    Haze maquina de fumaça para shows
+    Main Power
+    Strobo’s
+
+Qualidade garantida de  iluminação para eventos
+Contratando  iluminação para eventos da TPS EVENTOS, nosso cliente terá em mãos produtos de qualidade e conforto, para tornar seu evento ainda mais aconchegante e bonito
+
+Som
+Contamos com uma equipe de técnicos especializados em sonorização de eventos
+Equipamentos de som Profissionais de Alta Qualidade
+Equipamentos de sonorização de eventos:
+
+
+    Sistemas EAW caixas de som 
+    Sistemas Caixas de Som KW Audio BEYMA, QSC, K-Array 
+    Sistema de som line array 
+    Caixas de Som de Retorno 
+    Subwoofers HK Audio
+    Backline - amplificadores para guitarras e baixos, Bateria PEARL
+    Caixas de som ativa
+    Caixas de som passiva
+    Microfones - Shure ULX, Shure  de bastão e de lapela, DPA Headset
+    Microfone Sennheiser
+    Microfones gooseneck para púlpito;
+    Acessórios Direct Box, pedestal de microfone
+    Mesas de som  digital
+    Mesa de som analógica
+    Equipamento de DJ CDJ PIONEER
+
+Trabalhamos as melhores marcas de equipamentos de sonorização de eventos:
+RCF PIONEER DENON EAW KWAÚDIO YAMAHA, LSAUDIO FZAUDIO DAS BEYMA HKAUDIO
+SHURE BEHRINGER DAS QSC SENNHEISER DBX AKG WHIRLWIND NEUTRIK SANTO ANGELO
+
+Equipamentos de Projeção Para Eventos.
+•    Telão para eventos - telas de projeção 100/120/150/400 polegadas
+•    Projetor Multimídia Data show de alta definição
+•    TV LED - 42 e 80 polegadas pedestais apropriados
+•    TV LED Full HD - 32 a 60 Polegadas pedestais apropriados
+•    DVDS – players
+•    Painel LED - alta e baixa resolução .Saiba mais sobre Telão de led
+•    Monitores de TV LED- 42 polegadas
+•    Ilha de edição para corte
+•    Notebook
+•    Processador de imagem e Software - Spyder X20,Watchout,Resolume.
+•    Switcher e Splitter - AnalogWay  Pulse ,TVOne - C2 3350 , Vídeo Scaler kramer.
+
+
+
+
+
+Dúvidas Frequentes
+
+https://www.spacevents.com.br/perguntas-frequentes
+PERGUNTAS E RESPOSTAS 
+
+Posso alugar somente a estrutura do local sem nenhum outro serviço opcional?
+
+Sim, você pode alugar somente a estrutura do espaço.
+
+?
+
+O local possui hospedagem?
+
+Sim, a Unidade 2 possui pousada para até 33 hóspedes.
+
+?
+
+O local possui área de lazer com piscinas?
+
+Sim, a Unidade 2 possui duas piscinas adulto e infantil, varanda gourmet com churrasqueira e quadra de areia.
+
+?
+
+Posso contratar serviços externos como buffet, decoração, dj, entre outros?
+
+Sim, você pode contratar qualquer serviço externo a sua escolha.
+
+?
+
+O que está incluso na estrutura do espaço?
+
+300 Cadeiras de ferro no total
+
+Todas as dependências do local ficam a disposição (Salão, Capela, Pergolado, Cozinha, Churrasqueiras, Estacionamento e Área de Serviço)
+
+"LOVE" de parede luminoso com leds - Unidade 1
+
+Balanço na árvores com iluminação - Unidade 1
+
+Iluminação externa decorativa com varais de leds
+
+Pontos de iluminação de leds na área externa e jardim
+
+Dois fogões industriais (Não inclui gás)
+
+Forno industrial (Não inclui gás)
+
+Materiais de higiene para banheiros (papel higiênico e sabonete liquido)
+
+Limpeza antes e depois do evento
+
+?
+
+Quantas pessoas comporta o local?
+
+Para casamentos, até 300 pessoas sentadas, já incluindo espaço para decoração e pista de dança.
+
+Para outros eventos sem pista de dança e decoração, o salão comporta até 450 pessoas sentadas.
+
+?
+
+Possui estacionamento particular?
+
+Sim, temos uma ampla área fechada para estacionamento.
+
+?
+
+O salão é climatizado?
+
+Sim, o salão possui climatizadores evaporativos com controles de temperaturas e renovação plena de ar, proporcionando uma temperatura muito agradável durante todo o evento na Unidade 1
+
+Unidade 2 o salão possui ar condicionado
+
+?
+
+O local possui acessibilidade?
+
+Sim, o espaço possui acessibilidade para cadeirantes.
+
+?
+
+Tem limite de horário?
+
+Sim, para eventos que são noturnos, o horário para término do evento é às 04 horas da manhã. Para eventos diurnos o horário limite é até às 20 horas.
+
+?
+
+Quanto ao volume do som, tem alguma restrição? Posso levar banda ao vivo?
+
+Não temos restrições quanto ao som, pois o local tem o privilégio de não ter residências próximas. Sim, você pode contratar banda ao vivo.
+
+?
+
+ECAD está incluso?
+
+Sim, ECAD está incluso.
+
+?
+
+O espaço realiza mais de um evento no mesmo dia?
+
+Não, para ter uma excelência nos eventos, o espaço realiza apenas um evento por dia, ficando o local a disposição do contratante a partir das 8 horas da manhã.
+
+?
+
+O local possui serviço de buffet próprio?
+
+Sim, a Estância das Flores possui equipe própria de buffet. Com cardápios e serviço completo.
+
+?
+
+É possível alterar ou sugerir itens do cardápio?
+
+Sim, você pode sugerir alterações no cardápio, serão analisadas possibilidades e custos.
+
+?
+
+Já está incluso os garçons quando contrata o buffet? Quantos?
+
+Sim, nosso buffet já inclui garçons sendo 1 garçom a cada 30 convidados.
+
+?
+
+Já inclui as bebidas?
+
+Sim, todos nosso cardápios já incluem bebidas. Variando os tipos de bebidas conforme o desejo de cada cliente.
+
+Não trabalhamos com Cerveja, temos empresas pra indicar.
+
+?
+
+Como é servido as entradas e o almoço/jantar?
+
+Entradas dependendo do tipo são servidas em modo volante, na mesas dos convidados ou em ilhas. O almoça/jantar é servido no modo Franco-Americano (Tradicional) em ilha de buffet quente com rechauds e travessas de inox onde os próprios convidados se servem.
+
+?
+
+Tenho parentes ou conhecidos que fazem bolo ou doces. Posso trazer?
+
+Sim, você pode trazer de fora bolo ou doces para adicionar ao nosso buffet.
+
+?
+
+A Estância das Flores possui serviço de decoração?
+
+Sim, nós possuímos serviço de decoração com móveis e peças próprios. Ficando assim com um ótimo valor. A decoradora do local é a proprietária Jamile Cafure.
+
+?
+
+O que inclui na decoração?
+
+A decoração varia muito os itens que são incluídos, depende do pacote contratado. Mas em todos os pacotes incluem a mesa principal de doces, centros de mesa, arranjos de flores naturais, hall de entrada, armários de madeira, lounges com móveis de madeira de demolição, tecidos e pontos de LED.
+
+?
+
+Na decoração já está incluso o bolo cenográfico?
+
+Sim, já esta incluso um bolo cenográfico a sua escolha em empresa especializada.
+
+?
+
+Está incluso os doces da mesa principal?
+
+Não, os doces finos para mesa de doces. Nós podemos auxiliar na contração desse serviço com empresas especializadas.
+
+?
+
+Já está incluso bem casados ou lembrancinhas?
+
+Não, nós não trabalhamos com bem casados e lembrancinhas. 
+
+?
+
+O local já possui iluminação decorativa?
+
+Sim, o espaço é totalmente iluminado com lustres e varais de led (ligth-up). Toda a área interna e externa do local possui iluminação decorativa e já está inclusa em todos os contratos.
+
+?
+
+O local possui gerador de energia?
+
+Não, gerador de energia pode ser contratado como item opcional em empresa especializada.
+
+
+Nossa História
+
+A empresa Rolê Top foi fundada por Cesar Sportore e pelo seu sócio Alexandre Fukaya. Atua no ramo de eventos desde 2015. Possui um galpão na Rua Barão de Limeira, 539 e deseja criar um sistema de agendamento de eventos (mais voltado para shows, baladas, etc.).
+
+https://falconi.com/quem-somos/nossa-historia/#!
+https://criativito.com.br/nossa-historia/
+
+
+
+
+Tour 360
+
+https://www.360tourvirtual.net/como-fazer-um-tour-virtual-360-graus/
+
+
+
+Página de boas vindas login
+
+Seja bem vindo!
+
+“Preparados para a melhor festa de suas vidas? Já temos o mais importante: o amor. Agora só vai faltar vocês!”
+Deixamos aqui todas as informações importantes para que esse dia seja especial para você como será para nós. Esperamos você lá. Enquanto isso, aproveite este espaço que foi feito especialmente para você. Também ficaremos super felizes em ler uma mensagem sua sobre sua experiência.
+
+Para sua noite inesquecível...
+“Venha com um sapato confortável, um par animado e animação de sobra. No nosso dia não faltará motivos para celebrar a vida”.
+Um brinde a sua conquista!
+
+
+Grid: https://www.youtube.com/watch?v=HN1UjzRSdBk
+
+
+
+Revisar:
+Funcionalidades
+1.      Tela Principal (Home Page);
+2.      Tela de Login;
+3.      Tela de Cadastro de Eventos;
+4.      Tela de Cadastro de Clientes;
+5.      *Tela de Galeria de fotos;
+7.      Tela de Visualização/Aceite/Recusa de Eventos (ADM);
+8.      *Dashboard com as informações de eventos feitos, aceitos, recusados e pendentes.
+ 
+
+Sistema BackEnd (64 dias)
+Funcionalidades
+1.      Renderizar e devolver a Tela Principal corretamente;
+2.      Renderizar e devolver a Tela de Cadastro de Eventos corretamente;
+3.      Renderizar e devolver a Tela de Login corretamente;
+4.      Renderizar e devolver a Tela Cadastro de Clientes corretamente;
+5.      Renderizar e devolver a Tela Visualização de Eventos corretamente;
+6.      *Renderizar e devolver a Tela Galeria de Fotos;
+8.      Realizar o cadastro do cliente corretamente;
+9.      Realizar o login do cliente corretamente;
+10.   Realizar o login do administrador corretamente;
+11.   Recusar evento na tela de visualização de Eventos;
+12.   Aceitar evento na tela de visualização de Eventos;
+13.   Listar evento na tela de visualização de Eventos;
+14.   Realizar logout do sistema automaticamente;
+15.   Realizar logout do sistema manualmente.
+
+Músicas:
+
+Artic Monkeys - Do i Wanna know
+
+Revisão:
+
+Acrescer redes sociais
+Colocar rodapé em todas as páginas
+Colocar home em todas as páginas para voltar a página inicial e o voltar a anterior
+Fazer o kanban e protótipo
+
+
+
+
+Lost you passoword
+on't have an account?
+The window is no longer responding
+
+You can reopen or close the window or keep waiting
+
+Reopen
+Keep Waiting
+Close 
+
+
+
+
+
+
+<section id="banner">
+            <div class="section-container">
+                <p>Peça o seu
+                    <br />
+                    <strong class="banner_destaque">FURIOSO!</strong>
+                    <br />
+                    <span class="up-text">por apenas</span>
+                    <strong class="banner_destaque preco">R$9,99</strong>
+                </p>
+                <img src="img/furioso_banner.jpg" alt="Foto do Hamburguer Furioso" title="FURIOSO!" />
+            </div>
+        </section>
+
+
+
+
+
+body, ul, li, p{
+    list-style: none;
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #1d1e20;
+}
+
+.header {
+    background: rgb(180, 122, 47);
+    display: flex;
+    justify-content:space-between; 
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 30px;
+    width: 650px;
+}
+
+.header img {
+    height: 35px;    
+}
+
+.login {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    padding: 20px; 
+}
+
+.container1 {
+    
+    background-color: #1d1e20;
+    color: #fff;
+    height: 55px;
+    width: 800px;
+}
+
+.container2 {           
+    background-color: rgb(104, 13, 104);
+    color: #fff;
+    height: 450px;
+    width: 900px;
+}
+
+
+h2, p {
+    text-align: center;
+    margin-top: 100px;   
+
+}
+
+.espaco img {
+    height: 450px;
+    background-position: left;
+}
+
+.iluminacao img {
+    height: 450px;
+}
+
+.som img {
+    height: 450px;
+}
+
+
+
+
+.local {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+
+}
+
+
+
+Bom dia, prof's!
+
+Somente para dar uma satisfação por respeito(satisfação e não desculpe, ok)...
+Não vou conseguir entregar o projeto do Rolê Top.
+
+Comecei a desenrolar no grid o cabeçalho da página(porque achei que seria mais fácil que o flex, e foi), mas me enrolei para estilizar o resto da home (eu pisco e atrapalha todo o código), por isso estou refazendo mais uma vez algumas partes (tipo quase todas).
+
+Sei que tem a questão da nota, e isso me prejudica.Ciente disso... 
+Mas prefiro por hora, pois preciso condensar o mínimo de dominío aceitável no CSS, senão serei apenas uma copiadora de código(rs).
+Ah! Rindo de nervoso, claro.
+
+Bom trabalho pro cês!
+
+
+https://www.w3schools.com/css/css_padding.asp
+
+CRTL + ALT + seta
+ALT  + seta
+
+
+
+***Learn how to Learn - Barbara Oakley
+
+
+
+
+
+https://192.168.3.143:5002/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
