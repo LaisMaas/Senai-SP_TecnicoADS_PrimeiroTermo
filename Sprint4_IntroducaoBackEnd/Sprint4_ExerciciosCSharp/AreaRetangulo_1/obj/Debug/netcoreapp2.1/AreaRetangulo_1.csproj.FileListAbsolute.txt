@@ -1,0 +1,11 @@
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\bin\Debug\netcoreapp2.1\AreaRetangulo_1.deps.json
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\bin\Debug\netcoreapp2.1\AreaRetangulo_1.runtimeconfig.json
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\bin\Debug\netcoreapp2.1\AreaRetangulo_1.runtimeconfig.dev.json
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\bin\Debug\netcoreapp2.1\AreaRetangulo_1.dll
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\bin\Debug\netcoreapp2.1\AreaRetangulo_1.pdb
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\obj\Debug\netcoreapp2.1\AreaRetangulo_1.csprojAssemblyReference.cache
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\obj\Debug\netcoreapp2.1\AreaRetangulo_1.csproj.CoreCompileInputs.cache
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\obj\Debug\netcoreapp2.1\AreaRetangulo_1.AssemblyInfoInputs.cache
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\obj\Debug\netcoreapp2.1\AreaRetangulo_1.AssemblyInfo.cs
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\obj\Debug\netcoreapp2.1\AreaRetangulo_1.dll
+F:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\AreaRetangulo_1\obj\Debug\netcoreapp2.1\AreaRetangulo_1.pdb

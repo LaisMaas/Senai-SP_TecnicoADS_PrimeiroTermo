@@ -1,0 +1,11 @@
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\bin\Debug\netcoreapp2.1\ProgramaNoLimite.deps.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\bin\Debug\netcoreapp2.1\ProgramaNoLimite.runtimeconfig.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\bin\Debug\netcoreapp2.1\ProgramaNoLimite.runtimeconfig.dev.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\bin\Debug\netcoreapp2.1\ProgramaNoLimite.dll
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\bin\Debug\netcoreapp2.1\ProgramaNoLimite.pdb
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\obj\Debug\netcoreapp2.1\ProgramaNoLimite.csprojAssemblyReference.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\obj\Debug\netcoreapp2.1\ProgramaNoLimite.csproj.CoreCompileInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\obj\Debug\netcoreapp2.1\ProgramaNoLimite.AssemblyInfoInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\obj\Debug\netcoreapp2.1\ProgramaNoLimite.AssemblyInfo.cs
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\obj\Debug\netcoreapp2.1\ProgramaNoLimite.dll
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ProgramaNoLimite_\obj\Debug\netcoreapp2.1\ProgramaNoLimite.pdb

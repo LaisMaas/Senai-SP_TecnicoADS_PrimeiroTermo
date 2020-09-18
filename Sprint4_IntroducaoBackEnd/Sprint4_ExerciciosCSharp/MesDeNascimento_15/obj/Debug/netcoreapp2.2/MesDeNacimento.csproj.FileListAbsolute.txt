@@ -1,0 +1,11 @@
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\bin\Debug\netcoreapp2.2\MesDeNacimento.deps.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\bin\Debug\netcoreapp2.2\MesDeNacimento.runtimeconfig.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\bin\Debug\netcoreapp2.2\MesDeNacimento.runtimeconfig.dev.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\bin\Debug\netcoreapp2.2\MesDeNacimento.dll
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\bin\Debug\netcoreapp2.2\MesDeNacimento.pdb
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\obj\Debug\netcoreapp2.2\MesDeNacimento.csprojAssemblyReference.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\obj\Debug\netcoreapp2.2\MesDeNacimento.csproj.CoreCompileInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\obj\Debug\netcoreapp2.2\MesDeNacimento.AssemblyInfoInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\obj\Debug\netcoreapp2.2\MesDeNacimento.AssemblyInfo.cs
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\obj\Debug\netcoreapp2.2\MesDeNacimento.dll
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\MesDeNascimento_15\obj\Debug\netcoreapp2.2\MesDeNacimento.pdb

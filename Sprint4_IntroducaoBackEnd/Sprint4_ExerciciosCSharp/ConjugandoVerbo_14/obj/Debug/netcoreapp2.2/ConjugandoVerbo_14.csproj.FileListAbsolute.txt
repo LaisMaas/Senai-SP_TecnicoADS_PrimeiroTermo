@@ -1,0 +1,11 @@
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\obj\Debug\netcoreapp2.2\ConjugandoVerbo_14.csprojAssemblyReference.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\obj\Debug\netcoreapp2.2\ConjugandoVerbo_14.csproj.CoreCompileInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\obj\Debug\netcoreapp2.2\ConjugandoVerbo_14.AssemblyInfoInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\obj\Debug\netcoreapp2.2\ConjugandoVerbo_14.AssemblyInfo.cs
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\bin\Debug\netcoreapp2.2\ConjugandoVerbo_14.deps.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\bin\Debug\netcoreapp2.2\ConjugandoVerbo_14.runtimeconfig.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\bin\Debug\netcoreapp2.2\ConjugandoVerbo_14.runtimeconfig.dev.json
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\bin\Debug\netcoreapp2.2\ConjugandoVerbo_14.dll
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\bin\Debug\netcoreapp2.2\ConjugandoVerbo_14.pdb
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\obj\Debug\netcoreapp2.2\ConjugandoVerbo_14.dll
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\ConjugandoVerbo_14\obj\Debug\netcoreapp2.2\ConjugandoVerbo_14.pdb

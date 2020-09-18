@@ -1,0 +1,11 @@
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\bin\Debug\netcoreapp2.1\Treino.deps.json
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\bin\Debug\netcoreapp2.1\Treino.runtimeconfig.json
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\bin\Debug\netcoreapp2.1\Treino.runtimeconfig.dev.json
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\bin\Debug\netcoreapp2.1\Treino.dll
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\bin\Debug\netcoreapp2.1\Treino.pdb
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\obj\Debug\netcoreapp2.1\Treino.csprojAssemblyReference.cache
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\obj\Debug\netcoreapp2.1\Treino.csproj.CoreCompileInputs.cache
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\obj\Debug\netcoreapp2.1\Treino.AssemblyInfoInputs.cache
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\obj\Debug\netcoreapp2.1\Treino.AssemblyInfo.cs
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\obj\Debug\netcoreapp2.1\Treino.dll
+F:\Laís\SENAI\BackEnd\C#\Testes\Treino\obj\Debug\netcoreapp2.1\Treino.pdb

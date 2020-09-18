@@ -1,0 +1,4 @@
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\IMC_16\obj\Debug\netcoreapp2.1\IMC_16.csprojAssemblyReference.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\IMC_16\obj\Debug\netcoreapp2.1\IMC_16.csproj.CoreCompileInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\IMC_16\obj\Debug\netcoreapp2.1\IMC_16.AssemblyInfoInputs.cache
+E:\Laís\SENAI\BackEnd\C#\ExerciciosSprint3\IMC_16\obj\Debug\netcoreapp2.1\IMC_16.AssemblyInfo.cs
