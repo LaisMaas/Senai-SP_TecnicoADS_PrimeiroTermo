@@ -17,5 +17,5 @@
  
 
 
-<img src="https://github.com/LaisMaas/Senai-SP_TecnicoADS_PrimeiroTermo/blob/master/Sprint2_Html%26Css/McBonalds_Lanchonete/img/HomeProjeotoMcBonalds.png" width="750">
+<img src="https://github.com/LaisMaas/Senai-SP_TecnicoADS_PrimeiroTermo/blob/master/Sprint2_Html%26Css/McBonalds_Lanchonete/img/HomeProjeotoMcBonalds.png" width="1100">
 
