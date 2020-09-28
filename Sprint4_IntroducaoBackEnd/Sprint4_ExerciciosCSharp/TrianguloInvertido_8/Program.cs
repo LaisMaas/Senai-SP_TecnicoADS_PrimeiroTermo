@@ -14,7 +14,16 @@ namespace TrianguloInvertido_8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            Console.Write ("Digite o tamanho do triângulo desejado: ");
+            int tamanhoTriangulo = int.Parse (Console.ReadLine ()); 
+            Console.WriteLine();
+            string asteriscos = "";
+            for (int i = 0; i < tamanhoTriangulo; i++) {
+                asteriscos += "*";
+                Console.WriteLine (asteriscos);
+            }
+            Console.WriteLine();
+        } 
     }
 }
+
