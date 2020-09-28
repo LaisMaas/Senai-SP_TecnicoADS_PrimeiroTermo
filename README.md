@@ -5,13 +5,13 @@
  
  <h3>O Módulo Básico:</h3>
 
-<p>• Projetos baseados em metodologias ágeis;</p><br>
-<p>• Sistemas Operacionais;</p><br>
-<p>• Hardware e Redes;</p><br>
-<p>• Prototipagem;</p><br>
-<p>• Linguagem de Marcação(HTML) e Folha de Estilo(CSS);</p><br>
-<p>• Fundamentos de Programação Orientada a Objeto;</p><br>
-<p>• Arquitetura MVC.</p><br><br>
+<p>• Projetos baseados em metodologias ágeis;</p>
+<p>• Sistemas Operacionais;</p>
+<p>• Hardware e Redes;</p>
+<p>• Prototipagem;</p>
+<p>• Linguagem de Marcação(HTML) e Folha de Estilo(CSS);</p>
+<p>• Fundamentos de Programação Orientada a Objeto;</p>
+<p>• Arquitetura MVC.</p><br>
 
 
  
